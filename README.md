@@ -1,5 +1,6 @@
 # 何をするもの？
-The 6th KACのDDR予選ランキングのトップとのスコア差分を表示するツール
+The 6th KACのDDR予選ランキングのトップとのスコア差分を表示するツール  
+  
 
 # 注意事項
 ・コンソールを覗くとエラー出ます！！！！！！！  
@@ -11,6 +12,7 @@ The 6th KACのDDR予選ランキングのトップとのスコア差分を表示
 ・表示する以外の動作はありませんが、使用は自己責任でお願いします  
 ・事情により予告なく公開を止める場合があります  
   
+
 # 使用方法
 ①ブックマークへの登録(12/01版)  
 `javascript:(function(d,s){s=d.createElement('script');s.src='https://rawgit.com/nalpan/kac_ddr_6th_rank/master/kac_ddr_6th_rank_v02.js';d.body.appendChild(s);})(document)`
