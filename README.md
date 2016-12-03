@@ -16,8 +16,8 @@ The 6th KACのDDR予選ランキングのトップとのスコア差分を表示
   
 
 # 使用方法
-①ブックマークへの登録(12/01版)  
-`javascript:(function(d,s){s=d.createElement('script');s.src='https://rawgit.com/nalpan/kac_ddr_6th_rank/dev/kac_ddr_6th_rank_v02.min.js?a=b';d.body.appendChild(s);})(document)`
+①ブックマークへの登録(12/04変更)  
+`javascript:(function(d,s){s=d.createElement('script');s.src='https://cdn.rawgit.com/nalpan/kac_ddr_6th_rank/master/kac_ddr_6th_rank.min.js?a=b';d.body.appendChild(s);})(document)`
 をブックマークへ登録  
 
 ②ランキング画面の表示  
