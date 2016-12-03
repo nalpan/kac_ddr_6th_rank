@@ -1,5 +1,5 @@
 javascript:(function(){
-rows = document.querySelectorAll("table.normal-table>tbody>tr");
+rows = document.querySelectorAll("div.scrollable>table.normal-table>tbody>tr");
 first_scores = [];
 first_cols = rows[0].getElementsByClassName("score");
 for(col of first_cols){
@@ -7,6 +7,7 @@ for(col of first_cols){
 }
 for(row of rows){
     cols = row.getElementsByClassName("score");
+
     if(cols.length==0){
         continue;
     }
